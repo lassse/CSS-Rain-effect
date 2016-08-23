@@ -2,4 +2,4 @@
 10k apart submission
 
 ## Live demo
-[💩.lassekorsgaard.com/10k](http://💩.lassekorsgaard.com/10k)
+[💩.lassekorsgaard.com/10k](http://💩.lassekorsgaard.com/10k/)
